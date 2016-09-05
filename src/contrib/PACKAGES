@@ -5,6 +5,13 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: RSauceLabs
+Version: 0.1.2
+Depends: R (>= 3.0.0),httr,jsonlite,xml2,whisker,data.table
+License: GPL-3
+MD5sum: df63c57489eb7f65e1b1d76baa6da4bd
+NeedsCompilation: no
+
 Package: seleniumPipes
 Version: 0.3.3
 Depends: R (>= 3.0.0),httr,jsonlite,xml2,magrittr,whisker
