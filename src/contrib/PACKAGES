@@ -5,3 +5,11 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: seleniumPipes
+Version: 0.3.3
+Depends: R (>= 3.0.0),httr,jsonlite,xml2,magrittr,whisker
+Suggests: knitr, rmarkdown, data.table, testthat, covr
+License: GPL-3
+MD5sum: 9d675b2cd293f65bda451ffb9ac5b5c8
+NeedsCompilation: no
+
